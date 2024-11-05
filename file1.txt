@@ -1,3 +1,5 @@
 Ini file 1
 
 Ini sudah diedit di repo remote
+
+Oke sudah dikonfirmasi
